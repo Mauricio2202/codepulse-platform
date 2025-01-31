@@ -146,6 +146,68 @@ body {
   }
 }
 
+#article-information {
+  font-family: "Poppins", serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: 200px;
+}
+
+.nosotros, .mision, .vision {
+  margin-left: 50px;
+  height: 400px;
+  width: 300px;
+  text-align: center;
+  padding: 15px;
+  background-color: #E3ECF8;
+}
+
+.mision {
+  background-color: #EFE1FA;
+}
+
+.vision {
+  background-color: #FCEBD6;
+}
+
+.title-target1 {
+  color: #2D5DA8;
+  font-size: 2em;
+  font-weight: 400;
+}
+
+.title-target2 {
+  color: #7B42C2;
+  font-size: 2em;
+  font-weight: 400;
+}
+
+.title-target3 {
+  color: #D48F38;
+  font-size: 2em;
+  font-weight: 400;
+}
+
+.description {
+  color: #1F2F49;
+  font-size: 20px;
+}
+
+.description2 {
+  color: #3D2451;
+  font-size: 20px;
+}
+
+.description3 {
+  color: #5A3A1E;
+  font-size: 20px;
+}
+
+.iconTarget {
+  width: 70px;
+}
 
 /* Detalles */
 
@@ -153,4 +215,3 @@ body {
   margin-left: auto;
   margin-right: 0;
 }
-

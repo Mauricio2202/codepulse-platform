@@ -8,9 +8,6 @@ const Layout = () => {
         <div>
             <nav className="navList">
                 <ul className="listUnorder">
-                <div className="menu-icon">
-                    <img src="../assets/menu.png" alt="menu-icon" />
-                </div>
 
                     <li className="listItem">
                         <Link to="/" className="item">CodePulse</Link>
